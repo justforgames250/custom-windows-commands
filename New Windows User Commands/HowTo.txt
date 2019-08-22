@@ -1,0 +1,5 @@
+How to use commands
+1.Drag the batch file of the command to C:Windows\System32
+2.Open command prompt
+3.type in the name of the commands batch file
+4.Done!
